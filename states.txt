@@ -1,0 +1,6 @@
+//Game States//
+
+0 - Main Menu
+1- exit screen
+2- character screen
+3- Opening Scene
